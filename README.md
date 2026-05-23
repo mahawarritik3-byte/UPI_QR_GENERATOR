@@ -70,6 +70,7 @@ Example:ritik@paytm
 upi_qr.png
 
 ✅ Opens the QR code automatically
+
 ✅ Works with all major UPI apps 📱
 
 📱 Supported UPI Apps
