@@ -12,9 +12,13 @@ Users can scan the generated QR code and make payments directly through any UPI-
 ✨ Features
 
 ✅ Generate universal UPI QR code
+
 ✅ Dynamic UPI ID input
+
 ✅ Save QR code as PNG image
+
 ✅ Automatically open QR code
+
 ✅ Beginner-friendly Python project
 
 🛠️ Tech Stack
