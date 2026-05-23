@@ -57,9 +57,7 @@ Enter your UPI ID when prompted:
 
 Enter your UPI ID:
 
-Example:
-
-ritik@paytm
+Example:ritik@paytm
 📸 Output
 
 ✅ Generates a QR code image:
