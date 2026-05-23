@@ -3,8 +3,11 @@
 A simple Python project to generate a universal UPI QR code that works with apps like:
 
 Google Pay
+
 PhonePe
+
 Paytm
+
 
 Users can scan the generated QR code and make payments directly through any UPI-supported application. 🚀
 
@@ -17,10 +20,15 @@ Users can scan the generated QR code and make payments directly through any UPI-
 ✅ Beginner-friendly Python project
 
 🛠️ Tech Stack
+
 🐍 Python
+
 📦 qrcode Library
+
 🖼️ Pillow (PIL)
+
 📁 Project Structure
+
 project/
 │
 ├── main.py
@@ -62,17 +70,17 @@ upi_qr.png
 ✅ Works with all major UPI apps 📱
 
 📱 Supported UPI Apps
+
 Google Pay
+
 PhonePe
+
 Paytm
+
 BHIM
+
 Amazon Pay
-🚀 Future Improvements
-🌐 Web-based frontend
-🎨 Better UI
-📷 Custom QR styling
-💰 Fixed amount support
-☁️ Deployment support
+
 👨‍💻 Author
 
 Ritik Mahawar
